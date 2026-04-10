@@ -27,7 +27,7 @@ python app.py
 ## 📸 Project Screenshots
 
 ### Project Name
-![Project](images/0.png)
+![Project]<img width="900" height="720" alt="Image" src="https://github.com/user-attachments/assets/f48aaf38-c0b7-4dd0-9fc9-556d7263c72b" />
 
 ### Project Objective
 ![Objective](images/1.png)
