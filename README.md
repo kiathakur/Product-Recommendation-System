@@ -26,7 +26,6 @@ python app.py
 
 ## 📸 Project Screenshots
 
-### 📌 Project Name
-https://github.com/kiathakur/Product-Recommendation-System/blob/main/images/0.png
+![Project Name](https://github.com/kiathakur/Product-Recommendation-System/blob/main/images/0.png?raw=true)
 
 ---
