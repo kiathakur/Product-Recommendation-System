@@ -23,3 +23,20 @@ This project builds a recommendation system using item-item collaborative filter
 ```bash
 pip install -r requirements.txt
 python app.py
+
+## 📸 Project Screenshots
+
+### Project Name
+![Project](images/0.png)
+
+### Project Objective
+![Objective](images/1.png)
+
+### Dataset Overview
+![Dataset](images/2.png)
+
+### Exploratory Data Analysis
+![EDA](images/3.png)
+
+### Sparsity Check
+![Sparsity](images/4.png)
