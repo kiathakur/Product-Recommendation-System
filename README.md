@@ -25,7 +25,8 @@ pip install -r requirements.txt
 python app.py
 
 ## 📸 Project Screenshots
+![Project Name](images/0.png)
 
-![Project Name](https://github.com/kiathakur/Product-Recommendation-System/blob/main/images/0.png?raw=true)
+
 
 ---
