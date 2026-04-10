@@ -27,6 +27,6 @@ python app.py
 ## 📸 Project Screenshots
 
 ### 📌 Project Name
-<img width="900" height="720" alt="0" src="https://github.com/user-attachments/assets/bdb1cb10-f013-4017-aebe-13008fc76cf4" />
+https://github.com/kiathakur/Product-Recommendation-System/blob/main/images/0.png
 
 ---
